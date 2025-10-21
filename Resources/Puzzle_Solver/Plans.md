@@ -1,0 +1,17 @@
+
+
+
+
+
+Basic Puzzle Example:
+=====================
+    1565656562
+    9DEDEDEDEB
+    AEDEDEDEDC
+    9DEDEDEDEB
+    AEDEDEDEDC
+    9DEDEDEDEB
+    AEDEDEDEDC
+    9DEDEDEDEB
+    AEDEDEDEDC
+    3787878784
